@@ -2,6 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import {CalendarComponent} from "ap-angular2-fullcalendar/src/calendar/calendar";
 
+
 /**
  * Generated class for the TurnoPage page.
  *
